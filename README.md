@@ -2,6 +2,7 @@
 
 TodoList 앱은 Firebase와 연동하여 회원가입, 로그인, 할 일 관리 기능을 제공하는 간단한 실습 프로젝트입니다.  
 이 앱을 통해 Firebase 인증 및 데이터베이스 활용 방법을 익히고, iOS UI 개발 경험을 쌓을 수 있습니다.  
+</br>
 
 ## 🔍 주요 기능  
 
@@ -12,6 +13,7 @@ TodoList 앱은 Firebase와 연동하여 회원가입, 로그인, 할 일 관리
 | ![Image](https://github.com/user-attachments/assets/51d21f47-dfd0-42a4-9d2f-4449a0399ddc) | ![Image](https://github.com/user-attachments/assets/8ecf1719-765b-4c11-8ab4-43eb75cb2caf) | ![Image](https://github.com/user-attachments/assets/a9304930-59c7-44ea-bd7c-1a46ef7cbb62) |
 | :-: | :-: | :-: |
 | Todo 완료 기능 | Todo 삭제 기능 | 프로필 및 로그아웃 |
+</br>
 
 ## 🎯 상세 기능  
 
@@ -38,7 +40,9 @@ TodoList 앱은 Firebase와 연동하여 회원가입, 로그인, 할 일 관리
 
 7. **프로필 페이지**  
    - 로그인한 사용자의 회원 정보 확인  
-   - 로그아웃 기능 제공  
+   - 로그아웃 기능 제공
+
+</br>
 
 ## ⚙️ 개발 환경 및 기술 스택  
 
