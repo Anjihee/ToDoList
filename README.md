@@ -1,4 +1,4 @@
-# ✅ iOS TodoList App with Firebase
+# ✅ iOS ToDoList App with Firebase
 
 TodoList 앱은 Firebase와 연동하여 회원가입, 로그인, 할 일 관리 기능을 제공하는 간단한 실습 프로젝트입니다.  
 이 앱을 통해 Firebase 인증 및 데이터베이스 활용 방법을 익히고, iOS UI 개발 경험을 쌓을 수 있습니다.  
